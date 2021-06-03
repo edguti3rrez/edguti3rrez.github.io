@@ -6,12 +6,10 @@ A majority of my coding experience is in JS, HTML, CSS, and Node.js; with growin
 
 The labs and projects are organized by the course they were completed in, and courses are listed from most recent to oldest.
 
-### Coursework Overview
+## Coursework Overview
 Example format: "Lab/Project Name: description"
 
-```markdown
-# CIT 281
-
+### CIT 281
 - [Project 6]() : A Shape class, a Rectangle class, and a Triangle class that inherit methods from each other to return values.
 - [Project 5]() : A short Monster Game using classes. Monsters have names, initial life values, and minimum life values. When running the program randomly depletes the monsters life.
 - [Project 4]() : REST API working with a data source of "questions" and "answers" handling various routes and requests.
@@ -28,15 +26,12 @@ Example format: "Lab/Project Name: description"
 - [Lab 2]() : Practice with the Command Line and local GitHub controls.
 - [Lab 1]() : Working with the Command Line and practicing Node.js.
 
-# CIT 111
-
+### CIT 111
 - [Project 5]() : A Hangman game with buttons and keyboard inputs as well as several callback functions and a congratulations gif.
 - [Project 4]() : Objects and object methods to pseudo randomly generate a playing card into an HTML file. 
 - [Project 3]() : Working with arrays, objects, and breakpoints to make a padded table list of my favorite songs.
 - [Project 2]() : Building on HTML and CSS skills and further learning JS functions along with desired console.log outputs (more math functions).
 - [Project 1](https://github.com/edguti3rrez/cit111-p1): Practice HTML and CSS skills as well as pratcice with basic JS coding (basic math functions).
-
-```
 
 ### Contact
 
