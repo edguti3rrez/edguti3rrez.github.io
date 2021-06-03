@@ -34,7 +34,7 @@ Example format: "Lab/Project Name: description"
 - [Project 4](): Objects and object methods to pseudo randomly generate a playing card into an HTML file. 
 - [Project 3](): Working with arrays, objects, and breakpoints to make a padded table list of my favorite songs.
 - [Project 2](): Building on HTML and CSS skills and further learning JS functions along with desired console.log outputs (more math functions).
-- [Project 1](https://github.com/edguti3rrez/cit111-p1) : Practice HTML and CSS skills as well as pratcice with basic JS coding (basic math functions).
+- [Project 1](https://github.com/edguti3rrez/cit111-p1): Practice HTML and CSS skills as well as pratcice with basic JS coding (basic math functions).
 
 ```
 
