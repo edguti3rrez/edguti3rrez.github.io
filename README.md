@@ -18,7 +18,7 @@ Example format: "Lab/Project Name: description"
 - [Project 3](): Server with Node and Fastify handling several GET routes and req parameters using a seperate code module that is capable of calculating the total value of coin object.
 - [Project 2](): Using CLI and VSCode to work with git repos; also refactoring JS code.
 - [Project 1](): Using the CLI to create folders, display them as a tree, and use the break command. Also using Node.js to execute JS files.
-- [Lab 9](): 
+- [Lab 9](): GitHub lab course and repo practice
 - [Lab 8](): Used node-fetch package in a server to retrive JSONPlaceholder data
 - [Lab 7](): Created a GitHub organization then, using CLI, made a clone and used pull and push while I edited a local copy.
 - [Lab 6](): Using classes to make a book objects and a library.
