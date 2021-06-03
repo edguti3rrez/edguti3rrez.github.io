@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Portfolio
 
-You can use the [editor on GitHub](https://github.com/edguti3rrez/edguti3rrez.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here are the list of projects and labs I have completed over the course of my 2-year minor in Computer Information Technology (CIT) at the University of Oregon.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A majority of my coding experience is in JS, HTML, CSS, and Node.js; with growing experiences in front end development.
 
-### Markdown
+The labs and projects are organized by the course they were completed in, and courses are listed from most recent to oldest.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Coursework Overview
+Example format: "Lab/Project Name: description"
 
 ```markdown
-Syntax highlighted code block
+# CIT 281
 
-# Header 1
-## Header 2
-### Header 3
+- [Project 6](): A Shape class, a Rectangle class, and a Triangle class that inherit methods from each other to return values.
+- [Project 5](): A short Monster Game using classes. Monsters have names, initial life values, and minimum life values. When running the program randomly depletes the monsters life.
+- [Project 4](): REST API working with a data source of "questions" and "answers" handling various routes and requests.
+- [Project 3](): Server with Node and Fastify handling several GET routes and req parameters using a seperate code module that is capable of calculating the total value of coin object.
+- [Project 2](): Using CLI and VSCode to work with git repos; also refactoring JS code.
+- [Project 1](): Using the CLI to create folders, display them as a tree, and use the break command. Also using Node.js to execute JS files.
+- [Lab 9](): 
+- [Lab 8](): Used node-fetch package in a server to retrive JSONPlaceholder data
+- [Lab 7](): Created a GitHub organization then, using CLI, made a clone and used pull and push while I edited a local copy.
+- [Lab 6](): Using classes to make a book objects and a library.
+- [Lab 5](): Making another server with Node and Fastify that responds to different handle requests testing with Postman.
+- [Lab 4](): Making a basic server with Node and Fastify on local git repo.
+- [Lab 3](): Practice using JS ES6, object destructuring, => function expressions, exports/imports, and spread/rest operators.
+- [Lab 2](): Practice with the Command Line and local GitHub controls.
+- [Lab 1](): Working with the Command Line and practicing Node.js.
 
-- Bulleted
-- List
+# CIT 111
 
-1. Numbered
-2. List
+- [Project 5](): A Hangman game with buttons and keyboard inputs as well as several callback functions and a congratulations gif.
+- [Project 4](): Objects and object methods to pseudo randomly generate a playing card into an HTML file. 
+- [Project 3](): Working with arrays, objects, and breakpoints to make a padded table list of my favorite songs.
+- [Project 2](): Building on HTML and CSS skills and further learning JS functions along with desired console.log outputs (more math functions).
+- [Project 1](): Practice HTML and CSS skills as well as pratcice with basic JS coding (basic math functions).
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edguti3rrez/edguti3rrez.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Contact support](https://support.github.com/contact)
