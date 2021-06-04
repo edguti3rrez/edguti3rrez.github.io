@@ -10,12 +10,12 @@ The labs and projects are organized by the course they were completed in, and co
 Example format: "Lab/Project Name: description"
 
 ### CIT 281
-- [Project 6](): A Shape class, a Rectangle class, and a Triangle class that inherit methods from each other to return values.
-- [Project 5](): A short Monster Game using classes. Monsters have names, initial life values, and minimum life values. When running the program randomly depletes the monsters life.
-- [Project 4](): REST API working with a data source of "questions" and "answers" handling various routes and requests.
-- [Project 3](): Server with Node and Fastify handling several GET routes and req parameters using a seperate code module that is capable of calculating the total value of coin object.
-- [Project 2](): Using CLI and VSCode to work with git repos; also refactoring JS code.
-- [Project 1](): Using the CLI to create folders, display them as a tree, and use the break command. Also using Node.js to execute JS files.
+- [Project 6](https://edguti3rrez.github.io/cit281-p6): A Shape class, a Rectangle class, and a Triangle class that inherit methods from each other to return values.
+- [Project 5](https://edguti3rrez.github.io/cit281-p5): A short Monster Game using classes. Monsters have names, initial life values, and minimum life values. When running the program randomly depletes the monsters life.
+- [Project 4](https://edguti3rrez.github.io/cit281-p4): REST API working with a data source of "questions" and "answers" handling various routes and requests.
+- [Project 3](https://edguti3rrez.github.io/cit281-p3): Server with Node and Fastify handling several GET routes and req parameters using a seperate code module that is capable of calculating the total value of coin object.
+- [Project 2](https://edguti3rrez.github.io/cit281-p2): Using CLI and VSCode to work with git repos; also refactoring JS code.
+- [Project 1](https://edguti3rrez.github.io/cit281-p1): Using the CLI to create folders, display them as a tree, and use the break command. Also using Node.js to execute JS files.
 - [Lab 9](https://edguti3rrez.github.io/cit281-lab9/): GitHub lab course and repo practice
 - [Lab 8](https://edguti3rrez.github.io/cit281-lab8/): Used node-fetch package in a server to retrive JSONPlaceholder data
 - [Lab 7](https://edguti3rrez.github.io/cit281-lab7/): Created a GitHub organization then, using CLI, made a clone and used pull and push while I edited a local copy.
