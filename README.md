@@ -1,10 +1,14 @@
 ## Welcome to My GitHub Portfolio
+    
+<img src="./bright-idea.jpg" alt="bright-idea.jpg" width="331" height="414">
 
 Here are the list of projects and labs I have completed over the course of my 2-year minor in Computer Information Technology (CIT) at the University of Oregon.
 
 A majority of my coding experience is in JS, HTML, CSS, and Node.js; with growing experiences in front end development.
 
 The labs and projects are organized by the course they were completed in, and courses are listed from most recent to oldest.
+
+<img src="./coding-vscode2.jpg" alt="coding-vscode2.jpg" width="356" height="356">
 
 ## Coursework Overview
 Example format: "Lab/Project Name: description"
@@ -32,6 +36,8 @@ Example format: "Lab/Project Name: description"
 - [Project 3](https://edguti3rrez.github.io/cis111-p3/): Working with arrays, objects, and breakpoints to make a padded table list of my favorite songs.
 - [Project 2](https://edguti3rrez.github.io/cis111-p2/): Building on HTML and CSS skills and further learning JS functions along with desired console.log outputs (more math functions).
 - [Project 1](https://edguti3rrez.github.io/cis111-p1/): Practice HTML and CSS skills as well as pratcice with basic JS coding (basic math functions).
+
+<img src="./coding-vscode.jpg" alt="coding-vscode.jpg" width="443" height="291">
 
 ### Contact
 
